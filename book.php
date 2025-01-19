@@ -13,6 +13,7 @@ session_start();
            <body>	
 
 <h1>2ой коммит</h1>
+<h2>2 ветка home</h2>
 
 </body>
 </html>
